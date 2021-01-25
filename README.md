@@ -14,7 +14,6 @@ Installation
 
 Clone the repository, then install the requirements and start the web server.
 
-$ npm init
 
 $ npm install 
 
